@@ -18,7 +18,7 @@ Flow
 
 
 참조 사이트 및 Git
-1. https://liveyourit.tistory.com/244 - 크롤러
+1. https://hoho325.tistory.com/268 - 크롤러 (https://github.com/wlgh325/python_crawling)
 2. https://github.com/haesoly/estimate_review_of_restaurant - 감정분석
 3. http://dilab.kunsan.ac.kr/knu/knu.html - 감성사전
 4. 이재광
