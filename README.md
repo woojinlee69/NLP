@@ -15,7 +15,7 @@ Flow
 
 
 
-
+크롤러를 통해 카카맵을 통해 장소리뷰를 크롤링(노원 맛집)으로 검색하여 리뷰 취합
 
 참조 사이트 및 Git
 1. https://hoho325.tistory.com/268 - 크롤러 (https://github.com/wlgh325/python_crawling)
